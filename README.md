@@ -20,8 +20,7 @@
 
 ## Catatan
 
-- Tidak memerlukan root (menggunakan Shizuku)  
-- Risiko penggunaan ditanggung pengguna  
+- Tidak memerlukan root (menggunakan Shizuku) 
 
 ## Lisensi
 
