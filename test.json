@@ -1,1 +1,38 @@
 
+{
+  "update_info": {
+    "latest_version": "1.0",
+    "mandatory": true,
+    "download_url": "https://example.com/app-release.apk",
+    "changelog": [
+      "Peningkatan performa Game Booster",
+      "Penambahan fitur Crosshair baru",
+      "Perbaikan bug minor pada tampilan overlay"
+    ],
+    "update_title": "Pembaruan Tersedia!",
+    "update_message": "Versi baru tersedia dengan fitur menarik dan peningkatan performa. Harap perbarui aplikasi Anda untuk pengalaman terbaik.",
+    "positive_button": "Perbarui Sekarang",
+    "negative_button": "Nanti Saja"
+  },
+  "info_dialog": {
+    "show_on_start": true,
+    "title": "FF ToolsPro+",
+    "message": "Activate the <b>Game Booster</b> before playing for maximum performance.<br>Don’t forget to try the latest features in the Overlay menu:<br><br>- <i>Crosshair+</i><br>- <i>Sensitivity & Resolution</i><br>- <i>Boost Performance</i><br>- <i>Headtrick Enhancer</i><br><br>To disable the overlay, long-press the minimize button.<br>Join our WhatsApp group: <a href='https://whatsapp.com/channel/0029Vb64L2j1t90iLdwOPv3G' target='_blank'>Click here</a>",
+    "html_enabled": true,
+    "button_text": "Mengerti"
+  },
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Main Sekarang!",
+      "message": "Boost ON sekarang dan nikmati gameplay lebih ringan.",
+      "timestamp": 1721908800000
+    },
+    {
+      "id": 2,
+      "title": "Event Hari Ini!",
+      "message": "Cek fitur terbaru di menu Overlay sebelum main.",
+      "timestamp": 1721912400000
+    }
+  ]
+}
