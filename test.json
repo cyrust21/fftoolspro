@@ -26,16 +26,16 @@
       "id": 101,
       "title": "Main Hari Ini!",
       "message": "Aktifkan fitur Booster untuk gameplay ringan.",
-      "hour": 12,
-      "minute": 46,
+      "hour": 15,
+      "minute": 15,
       "days": [2, 4, 6]
     },
     {
       "id": 102,
       "title": "Coba Overlay Baru",
       "message": "Ada fitur crosshair+ yang baru.",
-      "hour": 12,
-      "minute": 50,
+      "hour": 15,
+      "minute": 20,
       "days": [1, 5]
     }
   ]
