@@ -27,7 +27,7 @@
       "title": "Main Hari Ini!",
       "message": "Aktifkan fitur Booster untuk gameplay ringan.",
       "hour": 16,
-      "minute": 5,
+      "minute": 13,
       "days": [2, 3, 6]
     },
     {
@@ -35,7 +35,7 @@
       "title": "Coba Overlay Baru",
       "message": "Ada fitur crosshair+ yang baru.",
       "hour": 16,
-      "minute": 10,
+      "minute": 13,
       "days": [1, 5]
     }
   ]
