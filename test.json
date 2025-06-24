@@ -26,9 +26,9 @@
       "id": 101,
       "title": "Main Hari Ini!",
       "message": "Aktifkan fitur Booster untuk gameplay ringan.",
-      "hour": 15,
-      "minute": 15,
-      "days": [2, 4, 6]
+      "hour": 16,
+      "minute": 00,
+      "days": [2, 3, 6]
     },
     {
       "id": 102,
