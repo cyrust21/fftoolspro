@@ -1,11 +1,13 @@
 {
   "update_info": {
-    "latest_version": "2.0",
+    "latest_version": "2.2",
     "mandatory": true,
     "download_url": "https://www.fftoolsproplus.com/",
     "changelog": [
       "Improved Game Booster performance",
       "Added new Crosshair feature",
+      "FixBugs input key",
+      "FixBugs style crosshair",
       "Minor bug fixes in overlay display"
     ],
     "update_title": "Update Available",
